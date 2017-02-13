@@ -1,8 +1,8 @@
 {
-  "name": "z2c-chapter03",
+  "name": "fun2win",
   "version": "1.0.0",
   "private": true,
-  "description": "Zero to Cognitive Tutorial Series",
+  "description": "IBM CIC Contest",
   "main": "index.js",
   "scripts": {
     "test": "\"\"",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rddill-IBM/ZeroToCognitive"
+    "url": "https://github.com/msibm/Contest"
   },
   "engines": {
     "node": "4.2.x"
@@ -21,7 +21,7 @@
     "Demo",
     "Bluemix"
   ],
-  "author": "Bob Dill, IBM Distinguished Engineer",
+  "author": "Marco Singh, IBM",
   "license": "Apache-2.0",
   "dependencies": {
     "body-parser": "^1.15.0",
